@@ -5,7 +5,7 @@ resource app_version {
 	major  = @MAJOR@,
 	middle = @MIDDLE@,
 	minor  = 0,
-	variety = B_APPV_FINAL,
+	variety = B_APPV_FINAl
 	internal = 0,
 	short_info = "CorsixTH",
 	long_info = "Open source clone of Theme Hospital"
